@@ -14,4 +14,4 @@ chegar na linha de chegada (campo)
 
 
 obs: 
-para fazer o trabalho eu usei como inspiração outro trabalho (corrida de emojis) e o resto das alterações eu que fiz.  
+para fazer o trabalho eu usei como inspiração outro trabalho (corrida de emojis) e o alura, o resto das alterações eu que fiz.  
